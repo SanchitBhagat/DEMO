@@ -1,3 +1,3 @@
 # DEMO
 <br>
-Author :Sanchit
+Author :Sanchit BhagatS
